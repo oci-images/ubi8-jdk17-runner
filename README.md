@@ -1,4 +1,4 @@
-# Adoptium Temurin OpenJDK17 -  OCI Image JDK11 minimal
+# Adoptium Temurin OpenJDK17 -  OCI Image JDK17 minimal
 Custom Images for Java17 Runners
 
 Image build with default charset _en_US.UTF-8_
